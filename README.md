@@ -1,16 +1,37 @@
-# project2
+# Decor Master
 
-A new Flutter project.
+Decor Master is a medium-scale Android application developed using Flutter and Dart. 
+It provides home renovation suggestions by analyzing images and videos, helping users visualize design ideas interactively.
 
-## Getting Started
+# Project Overview
 
-This project is a starting point for a Flutter application.
+Decor Master leverages Flutter’s cross-platform capabilities along with advanced image and video processing to offer personalized renovation advice. 
+Users can upload or capture images/videos of their spaces and receive design recommendations tailored to their style and preferences.
 
-A few resources to get you started if this is your first Flutter project:
+# Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Image & Video Upload: Users can upload or record media of their home spaces.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Renovation Suggestions: Interactive and dynamic renovation ideas based on the submitted media.
+
+Smooth UI/UX: Built with Flutter to ensure seamless performance and engaging interfaces.
+
+Dart-powered Logic: Efficient processing and suggestion algorithms implemented in Dart.
+
+# Technologies Used
+
+Flutter (UI framework)
+
+Dart (programming language)
+
+Image and Video processing libraries 
+
+Android platform compatibility
+
+# Getting Started
+
+Clone the repository: git clone <repo-url>
+
+Install dependencies: flutter pub get
+
+Run the app: flutter run
